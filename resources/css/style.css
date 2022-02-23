@@ -1,0 +1,58 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: black;
+  font-family: Veranda, sans-serif;
+  text-align: center;
+  margin: 15px;
+}
+
+h1 {
+  color: white;
+  font-size: 50px;
+  font-weight: normal;
+  margin: 40px auto 20px;
+}
+
+h2 {
+  color: white;
+  font-size: 42px;
+  font-weight: 300;
+  margin: 20px auto;
+}
+
+a {
+  color: aquamarine;
+  font-size: 16px;
+}
+
+p {
+  color: gray;
+  font-size: 21px;
+}
+
+video {
+  margin: 15px auto 20px;
+  max-width: 400px;
+  width: 100%;
+}
+
+img {
+  margin: 15px auto 10px;
+}
+
+#camp {
+  max-width: 600px;
+  width: 100%;
+}
+
+footer {
+  margin: 15px 15px 15px 0;
+}
+footer p {
+  color: gray;
+  text-align: right;
+}
